@@ -1,0 +1,9 @@
+Linux Variability Modeling Tools (LVAT) - Extracts
+Version 0.1
+
+Author: Steven She <shshe@gsd.uwaterloo.ca>
+Site:   https://code.google.com/p/linux-variability-analysis-tools/
+---
+
+Extracts from the i386 / x86 Kconfig model of various Linux versions. Use the
+LVAT infrastructure to parse and analyze the extracts.
