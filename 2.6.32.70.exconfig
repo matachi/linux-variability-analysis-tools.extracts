@@ -227,7 +227,7 @@ config ARCH string {
 }
 config KERNELVERSION string {
  env KERNELVERSION if []
- default ["2.6.32.69"] if []
+ default ["2.6.32.70"] if []
 }
 config DEFCONFIG_LIST string {
  depends on [!UML]
